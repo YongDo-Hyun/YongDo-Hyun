@@ -4,7 +4,7 @@
 ## HELLO!
 I am Yong Do-Hyun. I'm a game and software developer. I play Valorant and Counter-Strike 2. I speak five languages. My native language is Turkish, and the languages I'm actively learning are Japanese, English, and Chinese. The language I have finished learning is Korean. I love Turkish. You can access my repositories.
 ## MERHABA!
-Merhaba, ben Yong Do-Hyun. Oyun ve yazılım geliştiricisiyim. Valorant ve Counter-Strike 2 oynuyorum. Beş dil biliyorum. Ana dilim Korece. Aktif öğrendiğim diller ise Japonca, İngilizce ve Çince. Öğrenimini bitirdiğim dil ise Türkçe. Türkçeyi severim. Repolarıma ulaşabilirsiniz.
+Merhaba, ben Yong Do-Hyun. Oyun ve yazılım geliştiricisiyim. Valorant ve Counter-Strike 2 oynuyorum. Beş dil biliyorum. Ana dilim Türkçe. Aktif öğrendiğim diller ise Japonca, İngilizce ve Çince. Öğrenimini bitirdiğim dil ise Korece. Türkçeyi severim. Repolarıma ulaşabilirsiniz.
 
 # Şu ana kadar neler yaptım?
 ## 1. Eğitimim

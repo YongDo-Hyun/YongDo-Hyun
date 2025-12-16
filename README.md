@@ -1,4 +1,4 @@
-# README
+# YongDo-Hyun
 
 I’m an independent open-source developer building large-scale, long-lived software with a strong bias toward correctness, clear architecture, and reproducible delivery. I optimize for maintainability and operational clarity, not short-term velocity.
 
